@@ -1,0 +1,25 @@
+.video-background {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  /* Ajoutez ces styles au besoin pour le contenu dans Main */
+  .main-content {
+    position: relative;
+    z-index: 1; /* Assure que le contenu apparaît au-dessus de la vidéo */
+    color: #fff; /* Couleur du texte, ajustez selon vos besoins */
+  }
+  
+  /* Le reste de vos styles pour le contenu de Main */
+  
+
+
+  /* THIS IS NOT USED NOW , FOR NEW UPDATE [ DATE : SERIEUSEMENT JE SUIS FATIGUER SA SAIS JUST UN SITE WEB SECOUR CAR J AI CASSER MON SITE WEB PRINCIPALE */
